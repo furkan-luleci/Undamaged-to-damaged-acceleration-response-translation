@@ -28,4 +28,4 @@ utils.py is only used for gradient penalty used for the critics during the train
 
 # Some of the Results (see the modal identification results in the paper)
 The frequency domains of the concatenated response signals are plotted and shown in Fig. 8, Fig. 9, Fig. 10, Fig. 11, Fig. 12, Fig. 13. For instance, Fig. 8(a) shows the frequency domain plotting of undamaged and synthetic undamaged acceleration response signals at Joint 5; on the other hand, Fig. 8(b) shows the frequency domain plotting of damaged and synthetic damaged acceleration response signals at Joint 5. For modal identification results, please see the original paper https://www.sciencedirect.com/science/article/pii/S0952197623003305
-![Picture1](https://github.com/furknluleci/Improved-undamaged-to-damaged-acceleration-response-translation-for-Structural-Health-Monitoring/assets/63553991/c5843dd1-fdc2-493a-9269-e330e8bea6b5)
+![Picture1](https://github.com/furknluleci/Improved-undamaged-to-damaged-acceleration-response-translation-for-Structural-Health-Monitoring/assets/63553991/64327579-9bb3-40b4-ba09-9b92d4965961)
