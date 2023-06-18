@@ -24,6 +24,6 @@ utils.py is only used for gradient penalty used for the critics during the train
 # Training data flow for (a) undamaged-to-damaged domain translation and (b) damaged-to-undamaged domain translation
 ![1-s2 0-S0952197623003305-gr5_lrg](https://github.com/furknluleci/Improved-undamaged-to-damaged-acceleration-response-translation-for-Structural-Health-Monitoring/assets/63553991/190057c9-4dd3-45cd-942c-08087a56dfaf)
 
-# Some of the Results
+# Some of the Results (see the modal identification results in the paper)
 The frequency domains of the concatenated response signals are plotted and shown in Fig. 8, Fig. 9, Fig. 10, Fig. 11, Fig. 12, Fig. 13. For instance, Fig. 8(a) shows the frequency domain plotting of undamaged and synthetic undamaged acceleration response signals at Joint 5; on the other hand, Fig. 8(b) shows the frequency domain plotting of damaged and synthetic damaged acceleration response signals at Joint 5. For modal identification results, please see the original paper https://www.sciencedirect.com/science/article/pii/S0952197623003305
 ![Picture1](https://github.com/furknluleci/Improved-undamaged-to-damaged-acceleration-response-translation-for-Structural-Health-Monitoring/assets/63553991/c5843dd1-fdc2-493a-9269-e330e8bea6b5)
