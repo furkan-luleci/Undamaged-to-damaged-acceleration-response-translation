@@ -57,7 +57,7 @@ class Generator(nn.Module):
 
         self.res_blocks = nn.Sequential(
             *[
-                ResidualBlock(channels*512) for _ in range(4)
+                ResidualBlock(channels*512) for _ in range(5)
              ]       
         )                                                                                                          #Nx512x128
         self.up_1 = ConvBlock(channels*512, channels*256, down=False, kernel_size=6, stride=2, padding=2)          #Nx256x256
