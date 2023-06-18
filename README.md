@@ -17,3 +17,9 @@ metrics.py provides some of the metrics used in the training
 train.py is the file for training the generators and critics
 
 utils.py is only used for gradient penalty used for the critics during the training
+
+# Single model architecture of the CycleWDCGAN-GP model
+![1-s2 0-S0952197623003305-gr4_lrg](https://github.com/furknluleci/Improved-undamaged-to-damaged-acceleration-response-translation-for-Structural-Health-Monitoring/assets/63553991/a7f92629-6552-40a0-a850-67f6942dd66d)
+
+# Training data flow for (a) undamaged-to-damaged domain translation and (b) damaged-to-undamaged domain translation
+![1-s2 0-S0952197623003305-gr5_lrg](https://github.com/furknluleci/Improved-undamaged-to-damaged-acceleration-response-translation-for-Structural-Health-Monitoring/assets/63553991/190057c9-4dd3-45cd-942c-08087a56dfaf)
