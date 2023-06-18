@@ -2,7 +2,7 @@
 
 Published in Elsevier's Engineering Applications of Artificial Intelligence: https://www.sciencedirect.com/science/article/pii/S0952197623003305
 
-This study was carried out to improve the undamaged-to-damaged acceleration response domain translation, previously published in Elsevier's MSSP: https://www.sciencedirect.com/science/article/pii/S0888327023002777.
+This study was carried out to improve the initial experiments investigated for the undamaged-to-damaged acceleration response domain translation, which was previously published in Elsevier's MSSP: https://www.sciencedirect.com/science/article/pii/S0888327023002777.
 
 Motivation and Problem: 
 
