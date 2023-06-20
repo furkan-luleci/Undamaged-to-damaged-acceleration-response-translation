@@ -4,6 +4,8 @@ Published in Elsevier's Engineering Applications of Artificial Intelligence: htt
 
 This study was carried out to improve the initial experiments investigated for the undamaged-to-damaged acceleration response domain translation, which was previously published in Elsevier's MSSP: https://www.sciencedirect.com/science/article/pii/S0888327023002777.
 
+The primary difference between this and that initial study (https://www.sciencedirect.com/science/article/pii/S0888327023002777) is that the model used in this study is enforced with frequency loss, the model architecture is improved, and the model is trained with more datasets that are strategically chosen from the structure to perform the undamaged-to-damaged application better.
+
 Motivation and Problem: 
 
 Unpaired image-to-image translation is a popular research topic in computer vision and graphics. Recently, the authors of this paper took a similar approach and translated the domain of acceleration responses collected from a steel grandstand structure. In doing so, the undamaged response is translated to damaged, and the damaged response to undamaged. For that, a variant of the CycleGAN model is trained with undamaged (bolt tightened at the joint) and damaged (bolt loosened at the joint) responses from a single joint in the structure. However, the success of the domain translation on the test joints was very limited. 
