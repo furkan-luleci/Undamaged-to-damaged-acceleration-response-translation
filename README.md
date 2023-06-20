@@ -27,7 +27,7 @@ train.py is the file for training the generators and critics
 utils.py is only used for gradient penalty used for the critics during the training
 
 # Data
-The dataset used in the paper can be obtained free in here: http://onur-avci.com/benchmark/
+The dataset used in the paper can be obtained here: http://onur-avci.com/benchmark/
 
 # Single model architecture of the CycleWDCGAN-GP model
 ![1-s2 0-S0952197623003305-gr4_lrg](https://github.com/furknluleci/Improved-undamaged-to-damaged-acceleration-response-translation-for-Structural-Health-Monitoring/assets/63553991/a7f92629-6552-40a0-a850-67f6942dd66d)
