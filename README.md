@@ -29,7 +29,7 @@ train.py is the file for training the generators and critics
 utils.py is only used for gradient penalty used for the critics during the training
 
 # Data
-The dataset used in the paper can be obtained here: http://onur-avci.com/benchmark/
+The dataset used in the paper can be obtained [here](http://onur-avci.com/benchmark/)
 
 Domain translation applications are typically applied for images, e.g., zebra to horse conversions etc. Signal type of data instances can be a little different depending on the length on the signal. What I did in this paper is the division of the 1024-second signals from undamaged and damaged domains into 16-second tensors (each tensor is a 16 second vibration signal csv file). Then, used those 16-second tensors from both undamaged and damaged domain as if they are image data to train my model. More details about how this is achieved is available in the paper.
 
