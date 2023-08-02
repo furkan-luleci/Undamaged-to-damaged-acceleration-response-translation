@@ -4,7 +4,7 @@ Published in Elsevier's [Engineering Applications of Artificial Intelligence](ht
 
 [This study](https://www.sciencedirect.com/science/article/pii/S0952197623003305) was carried out to improve the initial experiments investigated for the undamaged-to-damaged acceleration response domain translation, which was previously published in Elsevier's [MSSP](https://www.sciencedirect.com/science/article/pii/S0888327023002777)
 
-The primary difference between this and [that initial study](https://www.sciencedirect.com/science/article/pii/S0888327023002777) is that the model used in this study is enforced with frequency loss, the model architecture is improved, and the model is trained with more datasets that are strategically chosen from the structure to perform the undamaged-to-damaged application better.
+The primary difference between [this](https://www.sciencedirect.com/science/article/pii/S0952197623003305) and [that initial study](https://www.sciencedirect.com/science/article/pii/S0888327023002777) is that the model used in this study is enforced with frequency loss, the model architecture is improved, and the model is trained with more datasets that are strategically chosen from the structure to perform the undamaged-to-damaged application better.
 
 Motivation and Problem: 
 
