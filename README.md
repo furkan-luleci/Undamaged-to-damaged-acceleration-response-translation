@@ -1,4 +1,4 @@
-# The codes of Improved-undamaged-to-damaged-acceleration-response-translation-for-Structural-Health-Monitoring
+# The codes of undamaged-to-damaged-acceleration-response-translation
 
 Published in Elsevier's Engineering Applications of Artificial Intelligence: https://www.sciencedirect.com/science/article/pii/S0952197623003305
 
